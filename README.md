@@ -55,6 +55,8 @@ Project Management:
 1. fd
 2. 
 
+#### R
+1. [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis).
 
 ---
 
