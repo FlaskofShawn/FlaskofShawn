@@ -55,8 +55,8 @@ Project Management:
 1. fd
 2. 
 
-#### R
-1. [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis).
+  #### R
+1. [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.
 
 ---
 
