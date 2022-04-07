@@ -60,7 +60,7 @@ Project Management:
 ##### Android  
 
 #### R
-1. [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.
+1. [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.  
 Related model analysis can be found on [Visualization](https://datalab.ucdavis.edu/text-reports/CURE/stem_ldavis.html)
 ---
 
