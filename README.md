@@ -53,8 +53,8 @@ Project Management:
 
 ### <:hammer_and_wrench:> Projects </:hammer_and_wrench:>
 #### Web
-1.[]()
-2.[]()
+1.[Tractivity](https://github.com/FlaskofShawn/Tractivity) A React based fitness tracking application.
+2.[Shop-till-you-drop]()
 
 #### iOS  
 [GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.  
