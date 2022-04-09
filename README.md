@@ -52,14 +52,17 @@ Project Management:
 ---
 
 ### <:hammer_and_wrench:> Projects </:hammer_and_wrench:>
-1. fd
-2. 
+#### Web
+1.[]()
+2.[]()
 
 #### iOS  
 [GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.  
 
 #### Android
-[RateMyClass](https://github.com/FlaskofShawn/RateMyClass) An Android app to prodive users with oppotunities to rate classes and write comments.  
+[RateMyClass](https://github.com/FlaskofShawn/RateMyClass) An Android app to prodive users with oppotunities to rate classes and write comments. 
+
+#### AI
 
 #### R
 [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.  
