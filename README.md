@@ -56,7 +56,7 @@ Project Management:
 2. 
 #### Mobile  
 ##### iOS  
-
+1. [GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.
 ##### Android  
 
 #### R
