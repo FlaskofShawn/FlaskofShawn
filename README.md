@@ -56,11 +56,13 @@ Project Management:
 2. 
 #### Mobile  
 ##### iOS  
-1. [GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.
-##### Android  
+[GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.  
+
+##### Android
+[RateMyClass](https://github.com/FlaskofShawn/RateMyClass) An Android app to prodive users with oppotunities to rate classes and write comments. 
 
 #### R
-1. [STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.  
+[STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.  
 Related model analysis can be found on [Visualization](https://datalab.ucdavis.edu/text-reports/CURE/stem_ldavis.html) supported by CURE_STEM.
 ---
 
