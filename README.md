@@ -54,11 +54,11 @@ Project Management:
 ### <:hammer_and_wrench:> Projects </:hammer_and_wrench:>
 1. fd
 2. 
-#### Mobile  
-##### iOS  
+
+#### iOS  
 [GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.  
 
-##### Android
+#### Android
 [RateMyClass](https://github.com/FlaskofShawn/RateMyClass) An Android app to prodive users with oppotunities to rate classes and write comments.  
 
 #### R
