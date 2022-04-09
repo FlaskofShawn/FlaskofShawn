@@ -52,22 +52,30 @@ Project Management:
 ---
 
 ### <:hammer_and_wrench:> Projects </:hammer_and_wrench:>
-#### Web
-1.[Tractivity](https://github.com/FlaskofShawn/Tractivity) A React based fitness tracking application.
-2.[Shop-till-you-drop]()
++ #### Web
+>1.[Tractivity](https://github.com/FlaskofShawn/Tractivity) A React based fitness tracking application. It is a fitness tracker for someone to improve their exercise habits as a doctor could recommend to a less-active person in danger of developing diabetes or heart disease.  
 
-#### iOS  
-[GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.  
+>2.[Shop till you Drop](https://github.com/FlaskofShawn/Shop-till-you-Drop) A very natural React app that allows users to see if they can get financial aid for chosen schools. "Shop for a year of college by putting items into your shopping cart and then tally up the bill when you check out."  
 
-#### Android
-[RateMyClass](https://github.com/FlaskofShawn/RateMyClass) An Android app to prodive users with oppotunities to rate classes and write comments. 
++ #### iOS  
+>[GroupMe](https://github.com/FlaskofShawn/GroupMe) An iOS app to connect users to their class groups by providing Discord links and WeChat QR code.  
 
-#### AI
++ #### Android
+>[RateMyClass](https://github.com/FlaskofShawn/RateMyClass) An Android app to prodive users with oppotunities to rate classes and write comments. 
 
-#### R
-[STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.  
++ #### R
+>[STEM Portal](https://github.com/FlaskofShawn/STEM-Portal-UC-Davis) An investigation to find the range of topics regarding as STEM at UC Davis.  
 Related model analysis can be found on [Visualization](https://datalab.ucdavis.edu/text-reports/CURE/stem_ldavis.html) supported by CURE_STEM.
 
++ #### AI
+>1.[Tile Puzzle](https://github.com/FlaskofShawn/Tile-Puzzle) A program to solve an arbitraty eight-tile puzzle.  
+>2.[Rush Hour Puzzle](https://github.com/FlaskofShawn/Rush-Hour-Puzzle) A program to solve the "Rush Hour" puzzle.  
+>3.[Hexapawn](https://github.com/FlaskofShawn/Hexapawn) A program that returns the next best move according to the search function and static board evaluator.  
+>4.[Perceptron](https://github.com/FlaskofShawn/Perceptron) A program that implements the perceptron learining model.  
+
++ #### HCI
+>[A Study of Efficiency Between Conventional Keyboard and Stylus Input Apple Pencil as an Example](https://github.com/FlaskofShawn/Human-Computer-Interaction-Research)
+  
 ---
 
 ### <:bar_chart:> GitHub stats </:bar_chart:>
