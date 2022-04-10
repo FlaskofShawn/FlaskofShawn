@@ -87,7 +87,7 @@ Related model analysis can be found on [Visualization](https://datalab.ucdavis.e
 ### <:mailbox_with_mail:> Connect with me </:mailbox_with_mail:>
 [![Gmail](https://img.shields.io/badge/uygli@ucdavis.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uygli@ucdavis.edu)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FlaskofShawn)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shawn-xiangyuli)
 
 ---
 
